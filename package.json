@@ -1,0 +1,24 @@
+{
+  "name": "test-media",
+  "version": "1.0.0",
+  "description": "In order to test the audio and negative test scenarios, we need to have a test harness page that contains the respective audio and video elements. This needs to be implemented in NodeJS / HTML5.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-core-inc/test-media.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-core-inc/test-media/issues"
+  },
+  "homepage": "https://github.com/m-core-inc/test-media#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "hbs": "^4.0.0"
+  }
+}
