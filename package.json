@@ -1,0 +1,24 @@
+{
+  "name": "test-media",
+  "version": "1.0.0",
+  "description": "In order to test the audio and negative test scenarios, we need to have a test harness page that contains the respective audio and video elements. This needs to be implemented in NodeJS / HTML5.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no tesIs Azalea going to be in school for the summer? I ask as if she is not and will be only crashing at either of her grand parents place I can take her on my 3 days off I have mostly Saturdays, Sunday, and Monday. for the most part I do work mainly Wednesdays to Fridays, but my schedule be ever changing as hotels like hospitals don't get the holidays off. I get at least four days a week so its okay and I can be called to do more days. well if anything I can always check with you and let you know my schedule for the next two weeks to get a general idea for when I am free.cdt specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-core-inc/test-media.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-core-inc/test-media/issues"
+  },
+  "homepage": "https://github.com/m-core-inc/test-media#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "hbs": "^4.0.0"
+  }
+}
